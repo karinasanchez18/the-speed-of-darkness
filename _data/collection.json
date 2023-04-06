@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "The Speed of Darkness " ] },
+    "summary": { "en": [ "This project will annotate Muriel Rukeyser's poem 'The Spead of Darkness.'" ] },
+    "items": [
+    ]
+}
