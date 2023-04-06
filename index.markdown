@@ -4,3 +4,4 @@
 
 layout: home
 ---
+In 1969, American poet Muriel Rukeyser read a group of thirteen poems entitled "The Spped of Darkness" at Sir George Williams University. 
