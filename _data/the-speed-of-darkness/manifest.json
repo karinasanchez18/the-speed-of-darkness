@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://karinasanchez18.github.io/the-speed-of-darkness/the-speed-of-darkness/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "The Speed of Darkness" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/speed-of-darkness_202303",
+        "type": "Text",
+        "label": { "en": [ "The Speed of Darkness" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "www.archive.org",
+        "type": "Agent",
+        "label": { "en": [ "The Internet Archive " ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://karinasanchez18.github.io/the-speed-of-darkness/the-speed-of-darkness/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 371.0,
+        "items": [
+          {
+            "id": "https://karinasanchez18.github.io/the-speed-of-darkness/the-speed-of-darkness/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://karinasanchez18.github.io/the-speed-of-darkness/the-speed-of-darkness/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia801604.us.archive.org/21/items/speed-of-darkness_202303/Speed%20of%20Darkness.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 371.0
+                },
+                "target": "https://karinasanchez18.github.io/the-speed-of-darkness/the-speed-of-darkness/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
